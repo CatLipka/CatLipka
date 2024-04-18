@@ -1,6 +1,5 @@
 ### Hey there I'm Cat 👋
 - :speech_balloon: Ask me about: anything
-- :zap: Fun fact: I'm an American living in Germany
 - :cherry_blossom: First language: C++
 
 ## 🔧 Technologies & Tools
